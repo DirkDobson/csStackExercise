@@ -6,7 +6,8 @@ namespace Stack
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            System.Console.WriteLine("what would you lke to do.");
+            string user =  Console.ReadLine();
         }
     }
 }
